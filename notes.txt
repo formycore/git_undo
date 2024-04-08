@@ -8,3 +8,6 @@
 6) git checkout filename
 # undoing a specific commited (that has been pushed)
 
+- after commit we get a hash id 
+- to get the hash id 
+    $ git log --oneline
