@@ -1,0 +1,10 @@
+# undoing local changes that are not commited
+1) create a file in the main 
+2) create a branch from the main 
+3) git checkout to branch(undoChanges)(git checkout -b undoChanges)
+4) edit the index.html
+
+5) check the git status
+6) git checkout filename
+# undoing a specific commited (that has been pushed)
+
